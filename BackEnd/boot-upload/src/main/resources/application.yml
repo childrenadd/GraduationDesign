@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+#文件存储路径
+prop:
+  upload-poster: files
+#设置最大上传大小为10Mb
+spring:
+  http:
+    multipart:
+      max-file-size: 10Mb

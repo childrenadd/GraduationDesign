@@ -1,0 +1,44 @@
+{
+  "id": "4036720",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151351",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e83a",
+      "unicode_decimal": 59450
+    },
+    {
+      "icon_id": "6151353",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e83b",
+      "unicode_decimal": 59451
+    },
+    {
+      "icon_id": "6151368",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "6172721",
+      "name": "process",
+      "font_class": "process",
+      "unicode": "e854",
+      "unicode_decimal": 59476
+    },
+    {
+      "icon_id": "6353306",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    }
+  ]
+}
